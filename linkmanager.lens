@@ -1,0 +1,11 @@
+[Lens]
+DBusName=unity.singlet.lens.linkmanager
+DBusPath=/unity/singlet/lens/linkmanager
+Name=Linkmanager
+Icon=/usr/share/unity/lenses/linkmanager/unity-lens-linkmanager.svg
+Description=Linkmanager Lens
+SearchHint=Search Linkmanager
+#Shortcut=c
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=linkmanager-lens
